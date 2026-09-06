@@ -322,7 +322,7 @@ The following screenshots demonstrate the original V1 password strength checker.
 
 | Weak Password | Moderate Password | Strong Password |
 |:---:|:---:|:---:|
-| ![V1 Weak Password](screenshots/v1/v1-weak.png) | ![V1 Moderate Password](screenshots/v1/v1-moderate.png) | ![V1 Strong Password](screenshots/v1/v1-strong.png) |
+| ![v1 weak](../ScreenShots/v1/Screenshot%202026-09-06%20115751.png) | [v1 moderate](../ScreenShots/v1/Screenshot%202026-09-06%20115822.png) | [v1 strong](../ScreenShots/v1/Screenshot%202026-09-06%20115848.png) |
 
 ### V2 — Improved Security Analyzer
 
@@ -330,7 +330,8 @@ The following screenshots demonstrate the additional security analysis introduce
 
 | Common Password Detection | Pattern Detection | Strong Password Analysis |
 |:---:|:---:|:---:|
-| ![V2 Common Password Detection](screenshots/v2/v2-common-password.png) | ![V2 Pattern Detection](screenshots/v2/v2-pattern-detection.png) | ![V2 Strong Password Analysis](screenshots/v2/v2-strong-password.png) |
+| [empty](../ScreenShots/v2/Screenshot%202026-09-06%20110628.png)
+ | ![common password](../ScreenShots/v2/Screenshot%202026-09-06%20110929.png) | ![password123](../ScreenShots/v2/Screenshot%202026-09-06%20111600.png) |
 
 ---
 
