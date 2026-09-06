@@ -18,7 +18,6 @@ The project focuses on low-level programming while applying fundamental cybersec
 - [Technical Implementation](#technical-implementation)
 - [Bit-Based Security Flags](#bit-based-security-flags)
 - [V2 Program Structure](#v2-program-structure)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Limitations](#limitations)
@@ -311,27 +310,6 @@ The V2 implementation is divided into procedures responsible for different parts
 | `COMPARE_COMMON`         | Compares the entered password against an individual common-password entry using `REPE CMPSB` |
 | `CALCULATE_ENTROPY`      | Calculates estimated entropy using password length and detected character-set categories |
 | `PRINT_DECIMAL`          | Converts an unsigned integer into decimal output using integer division |
-
----
-
-## Screenshots
-
-### V1 — Original Implementation
-
-The following screenshots demonstrate the original V1 password strength checker.
-
-| Weak Password | Moderate Password | Strong Password |
-|:---:|:---:|:---:|
-| ![v1 weak](../ScreenShots/v1/Screenshot%202026-09-06%20115751.png) | [v1 moderate](../ScreenShots/v1/Screenshot%202026-09-06%20115822.png) | [v1 strong](../ScreenShots/v1/Screenshot%202026-09-06%20115848.png) |
-
-### V2 — Improved Security Analyzer
-
-The following screenshots demonstrate the additional security analysis introduced in V2.
-
-| Common Password Detection | Pattern Detection | Strong Password Analysis |
-|:---:|:---:|:---:|
-| [empty](../ScreenShots/v2/Screenshot%202026-09-06%20110628.png)
- | ![common password](../ScreenShots/v2/Screenshot%202026-09-06%20110929.png) | ![password123](../ScreenShots/v2/Screenshot%202026-09-06%20111600.png) |
 
 ---
 
